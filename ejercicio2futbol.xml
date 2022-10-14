@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jugador nombre="Luka Modric" dorsal="10">
+    <nacionalidad>Croata</nacionalidad>
+    <equipo nombre="Real Madrid">
+        <entrenador>Carlo Ancelotti</entrenador>
+        <ciudad>Madrid</ciudad>
+    </equipo>
+    <caracteristicas>
+        <posicion>Medio campo</posicion>
+        <edad>37</edad>
+        <altura>172cm</altura>
+        <peso>66kg</peso>
+    </caracteristicas>
+    <datos temporada="22/23">
+        <partidosjugados>5</partidosjugados>
+        <suplencias>2</suplencias>
+        <minutostotales>489</minutostotales>
+        <tiros>9</tiros>
+        <tirosapuerta>2</tirosapuerta>
+        <asistencias>2</asistencias>
+        <pases>380</pases>
+        <pasescompletados>345</pasescompletados>
+        <fuerasdejuego>0</fuerasdejuego>
+        <faltas>
+            <faltascometidas>5</faltascometidas>
+            <faltasrecibidas>5</faltasrecibidas>
+        </faltas>
+        <tarjetas>
+            <rojas>0</rojas>
+            <amarillas>0</amarillas>
+        </tarjetas>
+    </datos>
+</jugador>
