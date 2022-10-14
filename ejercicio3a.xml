@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <deportistas>
+        <deportista>
+            <deporte Atletismo />
+            <nombre>Jesse Owens</nombre>
+        <deportista>
+            <deporte Natación />
+            <nombre>Mark Spitz</nombre>
+        </deportista>
+    </deportistas>
+
+<!--El error es que no se cierra la primera etiqueta de deportista 
+    y que si deporte se considera un atributo falta poner el igual (<deporte nombre="Atletismo">, <deporte nombre="Natación"> )-->

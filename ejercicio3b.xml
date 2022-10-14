@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pelicula>
+    <titulo>Con faldas y a lo loco</titulo>
+    <director>Billy Wilder</director>
+</pelicula>
+<pelicula>
+    <director>Leo McCarey</director>
+    <titulo>Sopa de ganso</titulo>
+</pelicula>
+<autor />barto</autor>
+
+<!--Los errores son que:
+    -No hay una etiqueta global que englobe al resto de etiquetas
+    -En la etiqueta de autor, la de apertura, sobra la / al final.
+     Sería: <autor>barto</autor>-->

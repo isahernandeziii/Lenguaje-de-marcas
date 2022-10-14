@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<geografia mundial>
+    <pais>
+        <pais>España</pais>
+        <continente>Europa</continente>
+        <capital></capital nombre="Madrid">
+    </pais>
+</geografia mundial>
+
+<!--Los errores son:
+    -No se pueden poner espacios en el nombre de las etiquetas, debería ser geografia_mundial
+    -No pueden haber atributos en las etiquetas de cierre (habría que poner <capital>Madrid</capital>) -->

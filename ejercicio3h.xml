@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<numeros>
+    <1 letra="u" letra="n" letra="o">1</>
+    <2 letra="d" letra="o" letra="s">22</>
+    <6 letra="s" letra="e" letra="i" letra="s">666666</>
+</numeros>
+
+<!--Los errores son:
+    -El primer carácter de una etiqueta no puede ser un número.
+    -Para las etiqueta de cierre habría que poner </numero1> en vez de </>.
+    -Todos los atributos de un elemento tienen que ser únicos. Por esta razón (letra2, letra3 y letra4) -->
